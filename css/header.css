@@ -1,0 +1,42 @@
+header {
+  border-bottom: 3px solid #d3d6da;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0 20px 0;
+  margin-bottom: 20px;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+}
+
+.game-title {
+  flex-grow: 2;
+  font-family: "nyt-karnakcondensed";
+  font-weight: 700;
+  font-size: 28px;
+  letter-spacing: 0.01em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.head-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#head-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  width: 30px;
+  margin-left: 4px;
+}

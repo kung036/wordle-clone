@@ -1,0 +1,40 @@
+.key-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  padding-bottom: 6px;
+  font-weight: bold;
+}
+
+.key-row__block {
+  width: 40px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #d3d6da;
+  border: 3px solid #d3d6da;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.key-row__wide-block {
+  width: 60px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #d3d6da;
+  border: 3px solid #d3d6da;
+  padding: 0 0 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.key-row__wide-block-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #d3d6da;
+  border: 3px solid #d3d6da;
+  padding: 0 0 0 0;
+}
