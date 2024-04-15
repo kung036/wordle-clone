@@ -14,7 +14,7 @@ main {
   gap: 5px;
 }
 
-.board-block {
+.board-column {
   display: flex;
   justify-content: center;
   align-items: center;
